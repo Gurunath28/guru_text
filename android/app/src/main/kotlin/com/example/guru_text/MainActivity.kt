@@ -1,0 +1,6 @@
+package com.example.guru_text
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
